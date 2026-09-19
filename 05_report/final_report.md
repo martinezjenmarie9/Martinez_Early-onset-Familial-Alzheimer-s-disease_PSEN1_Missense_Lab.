@@ -129,7 +129,9 @@ Early-onset familial Alzheimer’s disease is a degenerative brain disorder that
 
 ## Limitations
 Transeq and Needle only analyze nucleotide and protein sequences. They do not account for biological factors that may affect how PSEN1 is actually expressed or functions in cells.
+
 The artificial mutation changed the first codon and produced a Met1 → Leu1 change in Transeq. However, the tool cannot determine whether translation would actually begin with leucine or whether the altered start codon would prevent normal translation.
+
 The predicted effects were not tested experimentally. Laboratory methods would be needed to determine the actual effect of the mutation on PSEN1 protein and cellular function.
 
 ### Conclusion
@@ -139,6 +141,7 @@ This activity investigated the molecular basis of PSEN1-associated early-onset f
 An artificial mutation in the first codon was also created and resulted in a predicted Met1 → Leu1 change. These sequence changes demonstrate how a single nucleotide substitution can alter a protein sequence and potentially affect protein function. However, computational analysis can only predict molecular effects and cannot confirm actual changes in protein folding, γ-secretase activity, cellular processes, or Alzheimer’s disease phenotype. Overall, the activity demonstrated the relationship between DNA sequence, protein sequence, mutation type, and potential biological effects, while emphasizing the need for experimental evidence to confirm computational predictions.
 
 
-## 12. References
+## References
 Lee, W. P., Choi, S. H., Shea, M. G., Cheng, P. L., Dombroski, B. A., Pitsillides, A. N., Heard-Costa, N. L., Wang, H., Bulekova, K., Kuzma, A. B., Leung, Y. Y., Farrell, J. J., Lin, H., Kunkle, B. W., Naj, A., Blue, E. E., Nusetor, F., Wang, D., Boerwinkle, E., Bush, W. S., … Peloso, G. M. (2024). Association of common and rare variants with Alzheimer's disease in more than 13,000 diverse individuals with whole-genome sequencing from the Alzheimer's Disease Sequencing Project. Alzheimer's & dementia : the journal of the Alzheimer's Association, 20(12), 8470–8483. https://doi.org/10.1002/alz.14283 
+
 https://www.ncbi.nlm.nih.gov/medgen/C1843013 

@@ -21,14 +21,14 @@ PSEN1 participates primarily in the γ-secretase pathway, particularly in the pr
 
 | Required Information       | ClinVar Information |
 |----------------------------|---------------------|
-| Gene                       | **PSEN1** |
-| Reference transcript       | **NM_000021.4** |
-| Exact variant notation     | **NM_000021.4(PSEN1):c.617G>C (p.Gly206Ala)** |
-| Nucleotide change          | **c.617G>C** |
-| Predicted protein change   | **NP_000012.1:p.Gly206Ala** |
-| Mutation type              | **Missense variant** |
-| ClinVar accession          | **VCV000018143.33** |
-| Clinical interpretation    | **Pathogenic** |
+| Gene                       | PSEN1  |
+| Reference transcript       | NM_000021.4 |
+| Exact variant notation     | NM_000021.4(PSEN1):c.617G>C (p.Gly206Ala) |
+| Nucleotide change          | c.617G>C |
+| Predicted protein change   | NP_000012.1:p.Gly206Ala |
+| Mutation type              | Missense variant |
+| ClinVar accession          | VCV000018143.33 |
+| Clinical interpretation    | Pathogenic |
 | Scientific reference      | *Association of common and rare variants with Alzheimer's disease in more than 13,000 diverse individuals with whole-genome sequencing from the Alzheimer's Disease Sequencing Project.* |
 | ClinVar link               | [ClinVar Variation 18143](https://www.ncbi.nlm.nih.gov/clinvar/variation/18143/) |
 | PubMed reference           | [PubMed](https://pubmed.ncbi.nlm.nih.gov/39428839/) |
@@ -44,19 +44,19 @@ The mutation is also predicted to cause no change in protein length. The normal 
 
 **Obtaining the PSEN1 CDS**
 
-The PSEN1 coding sequence (CDS)** was obtained in FASTA format from a sequence database and used as the wild-type (WT) reference sequence.
+The PSEN1 coding sequence (CDS) was obtained in FASTA format from a sequence database and used as the wild-type (WT) reference sequence.
 
 **WT Protein Translationn** 
 
-The WT CDS was translated into a protein sequence using the Transeq** tool. The resulting protein FASTA file was saved for further analysis.
+The WT CDS was translated into a protein sequence using the Transeq tool. The resulting protein FASTA file was saved for further analysis.
 
 **Identifying the Documented Mutation**
 
-A documented PSEN1 mutation** was obtained from ClinVar**. The selected variant was c.617G>C**, which results in the predicted protein change **p.Gly206Ala. The nucleotide substitution was introduced into the WT CDS to create the documented mutant sequence.
+A documented PSEN1 mutation was obtained from ClinVar. The selected variant was c.617G>C, which results in the predicted protein change p.Gly206Ala. The nucleotide substitution was introduced into the WT CDS to create the documented mutant sequence.
 
 **Creating the Artificial Mutation**
 
-An artificial mutation was created by substituting A with C in the first codon** of the WT CDS. The mutated CDS was then translated using Transeq, producing the predicted Met1 → Leu1** amino-acid change.
+An artificial mutation was created by substituting A with C in the first codon of the WT CDS. The mutated CDS was then translated using Transeq, producing the predicted Met1 → Leu1 amino-acid change.
 
 **Protein Sequence Alignment**
 
@@ -134,9 +134,9 @@ The predicted effects were not tested experimentally. Laboratory methods would b
 
 ### Conclusion
 
-This activity investigated the molecular basis of PSEN1-associated early-onset familial Alzheimer’s disease** through sequence-based analysis. The human PSEN1 reference CDS and protein sequence were retrieved and used to describe the normal structure and function of presenilin-1, an important component of the γ-secretase complex. The documented **c.617G>C (p.Gly206Ala) variant was identified and manually reproduced in the CDS. Translation and Needle alignment showed that the mutation causes a single **Gly206 → Ala206 substitution without changing the reading frame, protein length, or producing a premature stop codon, identifying it as a **missense mutation.
+This activity investigated the molecular basis of PSEN1-associated early-onset familial Alzheimer’s disease through sequence-based analysis. The human PSEN1 reference CDS and protein sequence were retrieved and used to describe the normal structure and function of presenilin-1, an important component of the γ-secretase complex. The documented c.617G>C (p.Gly206Ala) variant was identified and manually reproduced in the CDS. Translation and Needle alignment showed that the mutation causes a single Gly206 → Ala206 substitution without changing the reading frame, protein length, or producing a premature stop codon, identifying it as a missense mutation.
 
-An artificial mutation in the first codon was also created and resulted in a predicted Met1 → Leu1** change. These sequence changes demonstrate how a single nucleotide substitution can alter a protein sequence and potentially affect protein function. However, computational analysis can only predict molecular effects and cannot confirm actual changes in protein folding, γ-secretase activity, cellular processes, or Alzheimer’s disease phenotype. Overall, the activity demonstrated the relationship between **DNA sequence, protein sequence, mutation type, and potential biological effects, while emphasizing the need for experimental evidence to confirm computational predictions.
+An artificial mutation in the first codon was also created and resulted in a predicted Met1 → Leu1 change. These sequence changes demonstrate how a single nucleotide substitution can alter a protein sequence and potentially affect protein function. However, computational analysis can only predict molecular effects and cannot confirm actual changes in protein folding, γ-secretase activity, cellular processes, or Alzheimer’s disease phenotype. Overall, the activity demonstrated the relationship between DNA sequence, protein sequence, mutation type, and potential biological effects, while emphasizing the need for experimental evidence to confirm computational predictions.
 
 
 ## 12. References

@@ -1,1 +1,77 @@
+########################################
+# Program: needle
+# Rundate: Thu 17 Sep 2026 03:45:12
+# Commandline: needle
+#    -asequence /jetstream2/scratch/main/jobs/79810342/inputs/dataset_676689c4-9f33-4d66-9175-febe9f346ec7.dat
+#    -bsequence /jetstream2/scratch/main/jobs/79810342/inputs/dataset_3e249a6a-81f7-4cb5-9e88-507047ffa278.dat
+#    -outfile /jetstream2/scratch/main/jobs/79810342/outputs/dataset_459d5424-a2ba-4f43-a745-e4f299aac6b5.dat
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -brief yes
+#    -aformat3 srspair
+#    -auto
+# Align_format: srspair
+# Report_file: /jetstream2/scratch/main/jobs/79810342/outputs/dataset_459d5424-a2ba-4f43-a745-e4f299aac6b5.dat
+########################################
 
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 213-1616_1
+# 2: 213-1616_1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 468
+# Identity:     467/468 (99.8%)
+# Similarity:   467/468 (99.8%)
+# Gaps:           0/468 ( 0.0%)
+# Score: 2388.0
+# 
+#
+#=======================================
+
+213-1616_1         1 MTELPAPLSYFQNAQMSEDNHLSNTVRSQNDNRERQEHNDRRSLGHPEPL     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+213-1616_1         1 MTELPAPLSYFQNAQMSEDNHLSNTVRSQNDNRERQEHNDRRSLGHPEPL     50
+
+213-1616_1        51 SNGRPQGNSRQVVEQDEEEDEELTLKYGAKHVIMLFVPVTLCMVVVVATI    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+213-1616_1        51 SNGRPQGNSRQVVEQDEEEDEELTLKYGAKHVIMLFVPVTLCMVVVVATI    100
+
+213-1616_1       101 KSVSFYTRKDGQLIYTPFTEDTETVGQRALHSILNAAIMISVIVVMTILL    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+213-1616_1       101 KSVSFYTRKDGQLIYTPFTEDTETVGQRALHSILNAAIMISVIVVMTILL    150
+
+213-1616_1       151 VVLYKYRCYKVIHAWLIISSLLLLFFFSFIYLGEVFKTYNVAVDYITVAL    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+213-1616_1       151 VVLYKYRCYKVIHAWLIISSLLLLFFFSFIYLGEVFKTYNVAVDYITVAL    200
+
+213-1616_1       201 LIWNFGVVGMISIHWKGPLRLQQAYLIMISALMALVFIKYLPEWTAWLIL    250
+                     |||||.||||||||||||||||||||||||||||||||||||||||||||
+213-1616_1       201 LIWNFAVVGMISIHWKGPLRLQQAYLIMISALMALVFIKYLPEWTAWLIL    250
+
+213-1616_1       251 AVISVYDLVAVLCPKGPLRMLVETAQERNETLFPALIYSSTMVWLVNMAE    300
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+213-1616_1       251 AVISVYDLVAVLCPKGPLRMLVETAQERNETLFPALIYSSTMVWLVNMAE    300
+
+213-1616_1       301 GDPEAQRRVSKNSKYNAESTERESQDTVAENDDGGFSEEWEAQRDSHLGP    350
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+213-1616_1       301 GDPEAQRRVSKNSKYNAESTERESQDTVAENDDGGFSEEWEAQRDSHLGP    350
+
+213-1616_1       351 HRSTPESRAAVQELSSSILAGEDPEERGVKLGLGDFIFYSVLVGKASATA    400
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+213-1616_1       351 HRSTPESRAAVQELSSSILAGEDPEERGVKLGLGDFIFYSVLVGKASATA    400
+
+213-1616_1       401 SGDWNTTIACFVAILIGLCLTLLLLAIFKKALPALPISITFGLVFYFATD    450
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+213-1616_1       401 SGDWNTTIACFVAILIGLCLTLLLLAIFKKALPALPISITFGLVFYFATD    450
+
+213-1616_1       451 YLVQPFMDQLAFHQFYI*    468
+                     ||||||||||||||||| 
+213-1616_1       451 YLVQPFMDQLAFHQFYI*    468
+
+
+#---------------------------------------
+#---------------------------------------

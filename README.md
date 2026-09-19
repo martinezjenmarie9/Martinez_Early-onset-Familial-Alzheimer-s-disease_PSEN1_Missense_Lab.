@@ -1,7 +1,4 @@
 # Disease-Gene-Mutation-Lab
-
-## Student Information
-
 - **Name:** Jen Marie Martinez
 - **Disease/Phenotype:** Early-Onset Familial Alzheimer Disease
 - **Gene:** PSEN1 (Presenilin 1)

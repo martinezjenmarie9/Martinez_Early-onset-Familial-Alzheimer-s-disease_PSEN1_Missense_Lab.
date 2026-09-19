@@ -36,8 +36,6 @@ PSEN1 participates primarily in the γ-secretase pathway, particularly in the pr
 
 ### Mutation Hypothesis
 
-Mutation Hypothesis
-
 The mutation analyzed in this study is PSEN1 c.617G>C, in which the nucleotide G is replaced by C at position 617. Only one nucleotide is affected. This substitution is predicted to be a missense mutation because it changes the amino acid at position 206 from glycine (G) to alanine (A), resulting in the predicted protein change p.Gly206Ala. Since the mutation involves the replacement of one nucleotide rather than an insertion or deletion, the reading frame is not expected to change, and no frameshift should occur.
 
 The mutation is also predicted to cause no change in protein length. The normal PSEN1 protein is 467 amino acids long, and the mutant protein is expected to remain 467 amino acids long because only one amino acid is replaced. In terms of protein function, the mutation is predicted to potentially alter presenilin-1 activity, particularly its role in the γ-secretase complex and APP processing. Changes in this pathway may affect amyloid-beta production and are associated with the development of early-onset familial Alzheimer’s disease.
@@ -45,6 +43,7 @@ The mutation is also predicted to cause no change in protein length. The normal 
 ## Methods
 
 **Obtaining the PSEN1 CDS**
+
 The PSEN1 coding sequence (CDS)** was obtained in FASTA format from a sequence database and used as the wild-type (WT) reference sequence.
 
 **WT Protein Translationn** 
